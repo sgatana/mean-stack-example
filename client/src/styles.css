@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+button {
+  background-color: #121212;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.btn-primary {
+  background-color: #238647;
+}
+.btn-primary:hover {
+  background-color: #38704c;
+}
+.btn-danger {
+  background-color: #c83049;
+}
+.btn-danger:hover {
+  background-color: #bc4256;
+}
